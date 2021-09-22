@@ -32,3 +32,36 @@ h5.GERALD{
     font-family: Cambria;
     color:springgreen;
 }
+
+
+.table_heading{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    color:black;
+}
+
+table.table_actors{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 60%;
+    padding: 20px;
+    margin: 40px;
+}
+
+table.table_actors tr:nth-child(odd){
+    background-color:lightgray;
+}
+
+table.table_actors td, table.table_actors th {
+    border: 1px solid darkgrey;
+    padding: 10px;
+    text-align: left;
+    color:darkblue;
+}
+
+table.table_actors th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color:seagreen;
+    color: black;
+}

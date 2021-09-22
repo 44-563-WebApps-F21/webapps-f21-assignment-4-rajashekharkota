@@ -1,0 +1,34 @@
+h5{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 20px;
+    color: black;
+}
+
+p.speech{
+    font-family:serif;
+    font-size: 15px;
+    color: black;
+}
+
+p.stage-direction{
+    
+    font-family: 'Times New Roman';
+    font-size: 18px;
+    color: black;
+    background-color: thistle;
+}
+
+p.stage-direction:hover {
+    background-color:beige;
+    color:red;
+}
+
+h5.LORD_ILLINGWORTH{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:darkgreen;
+}
+
+h5.GERALD{
+    font-family: Cambria;
+    color:springgreen;
+}

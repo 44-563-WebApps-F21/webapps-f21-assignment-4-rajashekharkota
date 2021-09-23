@@ -65,3 +65,35 @@ table.table_actors th {
     background-color:seagreen;
     color: black;
 }
+
+h5.GERALD:hover{
+    text-shadow: 2px 3px 4px cyan;
+    border-style:solid;
+    color:darksalmon;
+}
+
+h5.LORD_ILLINGWORTH:hover{
+    text-shadow: 2px 3px 4px lightsalmon;
+    border-style:double;
+    color:limegreen;
+}
+
+.navigation{
+    list-style-type: none;
+    width: 100%;
+    overflow: auto;
+    background-color:oldlace;
+}
+  
+.navigation a {
+    float:left;
+    color:black;
+    font-size: 20px;
+    display:table;
+    padding:8px;
+}
+  
+.navigation a:hover {  
+    background-color:peachpuff;
+    color:orchid;
+}
